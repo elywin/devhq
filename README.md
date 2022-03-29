@@ -1,2 +1,1 @@
-# Ronald
-my website
+# ZugHQ
